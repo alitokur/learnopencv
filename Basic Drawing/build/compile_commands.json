@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/alitokur/Documents/Image Processing with C++/Core Module/Basic Drawing/build",
+  "command": "C:\\mingw\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   @CMakeFiles/basicDrawing.dir/includes_CXX.rsp -g   -o CMakeFiles\\basicDrawing.dir\\basicDrawing.cpp.obj -c \"C:\\Users\\alitokur\\Documents\\Image Processing with C++\\Core Module\\Basic Drawing\\basicDrawing.cpp\"",
+  "file": "C:/Users/alitokur/Documents/Image Processing with C++/Core Module/Basic Drawing/basicDrawing.cpp"
+},
+{
+  "directory": "C:/Users/alitokur/Documents/Image Processing with C++/Core Module/Basic Drawing/build",
+  "command": "C:\\mingw\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   @CMakeFiles/basicDrawing.dir/includes_CXX.rsp -g   -o CMakeFiles\\basicDrawing.dir\\drawShape.cpp.obj -c \"C:\\Users\\alitokur\\Documents\\Image Processing with C++\\Core Module\\Basic Drawing\\drawShape.cpp\"",
+  "file": "C:/Users/alitokur/Documents/Image Processing with C++/Core Module/Basic Drawing/drawShape.cpp"
+}
+]

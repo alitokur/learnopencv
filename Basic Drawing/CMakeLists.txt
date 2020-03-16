@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( basicDrawing )
+find_package( OpenCV REQUIRED )
+add_executable( basicDrawing basicDrawing.cpp drawShape.cpp  )
+target_link_libraries( basicDrawing ${OpenCV_LIBS} )

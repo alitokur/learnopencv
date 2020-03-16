@@ -1,0 +1,3 @@
+C:/Users/alitokur/Documents/Image Processing with C++/Core Module/Basic Drawing/build/CMakeFiles/rebuild_cache.dir
+C:/Users/alitokur/Documents/Image Processing with C++/Core Module/Basic Drawing/build/CMakeFiles/basicDrawing.dir
+C:/Users/alitokur/Documents/Image Processing with C++/Core Module/Basic Drawing/build/CMakeFiles/edit_cache.dir
